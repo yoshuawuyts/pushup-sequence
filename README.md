@@ -25,7 +25,7 @@ const generate(0, 5)
 ```
 
 ## API
-### generate([start], n, [baseValue])
+### generate([start], n)
 Generate `n` pushup sequences. Each sequence consists of 5 repetitions. An
 optional start value can be provided.
 
