@@ -1,6 +1,6 @@
 const assert = require('assert')
 
-const BASE = 10
+const BASE = 0
 const REPS = 5
 const MED = ~~REPS / 2
 const GROWTH = 6
