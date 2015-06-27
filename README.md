@@ -16,6 +16,9 @@ $ npm install pushup-sequence
 __CLI__
 ```sh
 $ pushup <number>
+
+$ pushup 10
+[ 17, 13, 14, 17, 14 ]
 ```
 
 __JS__
@@ -37,7 +40,7 @@ optional start value can be provided.
 
 ## Why?
 Almost all fitness apps are silly. Most apps can be replaced by an array of
-values + a timer.
+values + a stopwatch.
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
