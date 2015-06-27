@@ -13,6 +13,12 @@ $ npm install pushup-sequence
 ```
 
 ## Usage
+__CLI__
+```sh
+$ pushup <number>
+```
+
+__JS__
 ```js
 const generate = require('pushup-sequence')
 
